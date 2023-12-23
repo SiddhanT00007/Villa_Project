@@ -1,0 +1,131 @@
+.contact-container {
+    height: 100vh;
+    padding: 50px 0;
+}
+
+.contact-us{
+    margin-top: -500px;
+    margin-bottom: 500px;
+    font-size: 30px;
+}
+
+.first_heading{
+    margin-top: -480px;
+    margin-bottom: 190px;
+    font-size: 50px;
+}
+
+.deal-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 200px;
+
+}
+
+.form{
+    height: 600px;
+    width: 500px;
+    background-color: white;
+}
+
+
+.form-container {
+    width: 100%;
+    margin: auto;
+    padding: 36px 48px 48px 48px;
+    background-color: #f2efee;
+    display: flex;
+    text-align: start;
+    border-radius: 11px;
+    box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.15);
+  }
+  
+  .login-title {
+    padding: 15px;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .login-form {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 16px;
+  }
+  
+  .login-form label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .login-form input {
+    width: 100%;
+    padding: 1.2rem;
+    border-radius: 9px;
+    border: none;
+  }
+  
+  .login-form input:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(253, 242, 233, 0.5);
+  }
+  
+  .btn--form {
+    color: #fdf2e9;
+    align-self: end;
+    padding: 8px;
+    width: 200px;
+  }
+  
+  .btn,
+  .btn:link,
+  .btn:visited {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 9px;
+    border: none;
+  
+    cursor: pointer;
+    font-family: inherit;
+  
+    transition: all 0.3s;
+  }
+  
+  .btn--form:hover {
+    background-color: #fdf2e9;
+    color: #f48982;
+  }
+
+  .dark-footer {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px 0; 
+    text-align: center;
+  }
+  
+  .dark-footer p {
+    margin: 0; /* Remove any default margin for the paragraph */
+  }
+  .card5{
+    margin-top: 480px;
+    margin-left: -720px;
+    padding: 30px 30px;
+    border-radius: 10px;
+    display: flex;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card6{
+    margin-top: 480px;
+    margin-left: -400px;
+    padding: 30px 30px;
+    border-radius: 10px;
+    display: flex;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+  
+  

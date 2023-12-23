@@ -1,0 +1,120 @@
+.second-page{
+    display: flex;
+    flex-direction: row;
+    padding: 80px 150px;
+    justify-content: space-between;
+}
+
+.left{
+    height: 30px;
+    width: 25%;
+}
+
+.middle{
+    height: 490px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.right{
+    height: 490px;
+    width: 25%;
+}
+
+.top{
+    text-align: left;
+    padding: 10px;
+}
+
+.bottom{
+    background-color: #eeeeee;
+    text-align: left;
+    padding: 5px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.item-text{
+    color: orangered;
+}
+
+.third_page{
+    margin-top: 150px;
+}
+.third_heading{
+    margin-top: -300px;
+    margin-bottom: 190px;
+    font-size: 50px;
+}
+.deal{
+    margin-top: -150px;
+}
+
+
+.cards1{
+    background-color: #f5dad1;
+    border-radius: 10px;
+    padding: 10px;
+}
+.cards2{
+    margin: 120px;
+    
+}
+.cards3{
+    margin-left: 30px;
+}
+.num{
+    font-size: 40px;
+}
+
+.best-deals{
+    height: 100vh;
+    background-color: #eeeeee;
+    padding: 50px 0;
+}
+
+.deals-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.deal-titles{
+    display: flex;
+    flex-direction: column;
+}
+
+.deal-titles h2,.deal-titles h1{
+    display: flex;
+
+}
+
+.deal-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 350px;
+    height: 40px;
+    gap: 20px;
+}
+
+.deals-bottom{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.deals-right{
+    width: 400px;
+}
+
+.deals-right p{
+    display: flex;
+    justify-content: flex-start;
+}

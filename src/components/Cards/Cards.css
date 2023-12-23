@@ -1,0 +1,33 @@
+.card-img{
+    height: 190px;
+    width: 280px;
+}
+.lux{
+    background-color:  rgb(216, 198, 187);
+    width: 100px;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.dollar{
+    color: orangered;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.btn1{
+    
+    border-radius: 10px;
+    margin-left: 60px;
+}
+.park{
+    left:0
+}
+.cardss{
+    width: 350px;
+    margin-left: 90px;
+    margin-right: 10px;
+    padding: 30px;
+    margin-bottom: 50px;
+    display: flex;
+}
+
